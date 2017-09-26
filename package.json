@@ -1,6 +1,6 @@
 {
   "name": "@agile-central-technical-services/time-formatter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Basic time formatting utilities",
   "main": "dist/index.js",
   "scripts": {
@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/tyrjo/time-formatter#readme",
   "devDependencies": {
-    "babel-preset-env": "^1.6.0"
+    "babel-preset-env": "^1.6.0",
+    "babel-cli": "^6.26.0"
   },
   "dependencies": {
-    "babel-cli": "^6.26.0"
   }
 }
